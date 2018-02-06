@@ -1,0 +1,20 @@
+{
+  "short_name": "instagram",
+  "name": "Welcome to instagram",
+  "icons": [
+    {
+      "src": "images/instagram.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "images/instagram.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "display": "standalone",
+  "background_color": "rgb(124,191,59)",
+  "start_url": "./",
+  "gcm_sender_id": "494719805142"
+}
